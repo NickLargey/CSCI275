@@ -1,0 +1,40 @@
+101
+Miami
+12.5
+Priority
+102
+Boston
+3.5
+Priority
+103
+Boston
+2.75
+Two Day
+104
+Miami
+11.9
+Overnight
+105
+Atlanta
+34.1
+Priority
+106
+Miami
+45.0
+Two Day
+107
+Boston
+14.9
+Priority
+108
+Boston
+28.9
+Priority
+109
+Atlanta
+14.6
+Priority
+110
+Boston
+3.2
+Two Day

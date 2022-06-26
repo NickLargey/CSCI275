@@ -1,0 +1,61 @@
+1/12/2022
+201
+Hanley Nursing Home
+125 Main St.
+Portland
+1
+202
+Billiards Grocery
+23 Broadway
+Lewiston
+1
+203
+Lakeside Dermatology
+46 Lakeview Dr.
+Bangor
+3
+204
+Masters Meats
+39 Congress St.
+Portland
+3
+205
+Jetson Livery
+5 State Way
+Lewiston
+2
+206
+Babcock Grocers
+1 Hiddleton St
+Bangor
+1
+207
+Frenchs Funeral Home
+50 Illuson Way
+Lewiston
+1
+208
+Ting Variety
+700 Raskall Dr
+Portland
+2
+209
+Mainway Grocers
+1000 Sedwick Rd
+Bangor
+1
+210
+Nana's Day Care
+34 Fulsom Lane
+Portland
+2
+211
+Astro Insurance
+112 Helsinki Way
+Bangor
+1
+212
+Carterfield Cafe
+100 Elk Park
+Bangor
+2

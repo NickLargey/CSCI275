@@ -1,0 +1,47 @@
+Textbook
+Programming with C++
+Y. Daniel Liang
+0136097200
+COS221
+Textbook
+Introduction to Programming
+David Schneider
+013212856X
+COS120
+Book
+Full Stack Applications
+Stephen Prata
+1571691316
+Textbook
+Exploring Microsoft Access
+Robert Grauer
+0135098599
+BUS103
+Textbook
+Blended HTML, XHTML, CSS
+Julie Bojak
+0538746334
+COS115
+Book
+Project Management
+Mike Dawson
+1423902270
+Textbook
+Absolute C++
+Walter Savitch
+0201709279
+COS220
+Book
+Computer Hardware Essentials
+Donna Gosselin
+0619016573
+Textbook
+Database SQL Queries
+Aimee Heldon
+0618016902
+BUS200
+Textbook
+Professional Excel
+Rob Bovey
+0321508793
+BUS240
