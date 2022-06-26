@@ -1,11 +1,14 @@
 # ignore all
 *
+/Midterm
+/Week 07
+/Week 09
 
 # except
 !*.cpp
 !*.h
 !*/
 !.gitignore
-!.README.md
+!README.md
 !*.txt
 !*.pdf
