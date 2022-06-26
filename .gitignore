@@ -4,6 +4,6 @@
 # except
 !*.cpp
 !*.h
-!*/Assignments
+!*/
 !.gitignore
 !.README.md
